@@ -1,29 +1,29 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Harryson+Carvalho;Software+Engineering+Student;Cybersecurity+%26+Web+Development;Building+real-world+projects)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Harryson+Carvalho;Estudante+de+Engenharia+de+Software;Ciberseguranca+%26+Desenvolvimento+Web;Criando+projetos+reais)
 
-### Hey, I'm Harryson
+### Olá, eu sou o Harryson
 
-Software Engineering student focused on cybersecurity, web development, automation, and practical tools that solve real problems.
+Estudante de Engenharia de Software com foco em cibersegurança, desenvolvimento web, automação e ferramentas práticas para resolver problemas reais.
 
-[![GitHub followers](https://img.shields.io/github/followers/Harryson3001?style=for-the-badge&logo=github&color=238636&labelColor=0D1117)](https://github.com/Harryson3001?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=Harryson3001&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/Harryson3001)
+[![Seguidores no GitHub](https://img.shields.io/github/followers/Harryson3001?style=for-the-badge&logo=github&color=238636&labelColor=0D1117&label=SEGUIDORES)](https://github.com/Harryson3001?tab=followers)
+[![Visualizações do perfil](https://komarev.com/ghpvc/?username=Harryson3001&style=for-the-badge&color=58A6FF&label=VISUALIZACOES)](https://github.com/Harryson3001)
 
 </div>
 
 ---
 
-## About Me
+## Sobre Mim
 
 ```txt
-Name        : Harryson Carvalho
-Focus       : Cybersecurity, Web Development, Automation
-Learning    : Secure systems, backend logic, network tools
-Mindset     : Build, test, break, understand, improve
-Goal        : Turn ideas into useful software
+Nome        : Harryson Carvalho
+Foco        : Cibersegurança, Desenvolvimento Web, Automação
+Estudando   : Sistemas seguros, lógica backend, ferramentas de rede
+Mentalidade : Criar, testar, quebrar, entender, melhorar
+Objetivo    : Transformar ideias em software útil
 ```
 
-## Tech Stack
+## Tecnologias
 
 <div align="center">
 
@@ -38,66 +38,66 @@ Goal        : Turn ideas into useful software
 
 </div>
 
-## What I Like Building
+## O Que Eu Gosto de Criar
 
 <table>
   <tr>
     <td width="50%">
-      <h3>Security Tools</h3>
-      <p>Utilities for analysis, automation, hardening, and learning how systems behave under pressure.</p>
+      <h3>Ferramentas de Segurança</h3>
+      <p>Utilitários para análise, automação, estudo de comportamento de sistemas e pesquisa defensiva.</p>
     </td>
     <td width="50%">
-      <h3>Web Systems</h3>
-      <p>Backends, dashboards, forms, APIs, and complete flows with clean structure and practical purpose.</p>
+      <h3>Sistemas Web</h3>
+      <p>Backends, dashboards, formulários, APIs e fluxos completos com estrutura limpa e propósito prático.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Automation</h3>
-      <p>Scripts and tools that reduce manual work, extract information, and make repetitive tasks faster.</p>
+      <h3>Automação</h3>
+      <p>Scripts e ferramentas que reduzem trabalho manual, extraem informações e aceleram tarefas repetitivas.</p>
     </td>
     <td width="50%">
-      <h3>Learning Projects</h3>
-      <p>Small experiments that help me understand languages, architecture, security, and software design.</p>
+      <h3>Projetos de Aprendizado</h3>
+      <p>Experimentos pequenos para entender linguagens, arquitetura, segurança e boas práticas de software.</p>
     </td>
   </tr>
 </table>
 
-## GitHub Stats
+## Estatísticas do GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harryson3001&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Harryson GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harryson3001&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harryson3001&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub do Harryson" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harryson3001&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Harryson3001&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Harryson3001&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
 
 </div>
 
-## Featured Projects
+## Projetos em Destaque
 
 <div align="center">
 
-[![Information-Extractor](https://github-readme-stats.vercel.app/api/pin/?username=Harryson3001&repo=Information-Extractor&theme=github_dark&hide_border=true)](https://github.com/Harryson3001/Information-Extractor)
-[![Patch-0xC0000022](https://github-readme-stats.vercel.app/api/pin/?username=Harryson3001&repo=Patch-0xC0000022&theme=github_dark&hide_border=true)](https://github.com/Harryson3001/Patch-0xC0000022)
+[![Information-Extractor](https://github-readme-stats.vercel.app/api/pin/?username=Harryson3001&repo=Information-Extractor&theme=github_dark&hide_border=true&locale=pt-br)](https://github.com/Harryson3001/Information-Extractor)
+[![Patch-0xC0000022](https://github-readme-stats.vercel.app/api/pin/?username=Harryson3001&repo=Patch-0xC0000022&theme=github_dark&hide_border=true&locale=pt-br)](https://github.com/Harryson3001/Patch-0xC0000022)
 
 </div>
 
-## Current Direction
+## Direção Atual
 
-- Strengthening my foundation in software engineering.
-- Building more complete web applications.
-- Studying cybersecurity with responsible, ethical practice.
-- Improving code quality, documentation, and project presentation.
+- Fortalecer minha base em Engenharia de Software.
+- Criar aplicações web mais completas.
+- Estudar cibersegurança com prática responsável e ética.
+- Melhorar qualidade de código, documentação e apresentação dos projetos.
 
 ---
 
 <div align="center">
 
-### "Code is better when it is useful, readable, and built with curiosity."
+### "Código fica melhor quando é útil, legível e feito com curiosidade."
 
-![Snake animation](https://raw.githubusercontent.com/Harryson3001/Harryson3001/output/github-contribution-grid-snake-dark.svg)
+![Animação das contribuições](https://raw.githubusercontent.com/Harryson3001/Harryson3001/output/github-contribution-grid-snake-dark.svg)
 
 </div>
